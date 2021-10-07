@@ -27,6 +27,7 @@ Before becoming a PhD student, I was an undergraduate student at New York Univer
 * [Portfolio Online Evolution in StarCraft](https://ojs.aaai.org/index.php/AIIDE/article/view/12862/12709). **Che Wang**, Pan Chen, Yuanda Li, Christoffer Holmgard, Julian Togelius. Oral presentation at AIIDE 2016. 
 
 ## Work in progress
+* AARL: Automated Auxiliary Loss for Reinforcement Learning. Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. **Che Wang**, Keith Ross. 
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). **Che Wang**, Keith Ross. 
 
