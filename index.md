@@ -14,7 +14,7 @@ PhD student in Computer Science.
 
 ## About me
 
-Hi! I am Che Wang, a PhD student at New York University, advised by Professor [Keith Ross](https://sites.google.com/nyu.edu/keithross/). My current research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning from a fundamental level. 
+Hi! I am Che Wang, a PhD student at New York University, advised by Professor [Keith Ross](https://sites.google.com/nyu.edu/keithross/). My current research focuses on improving sample efficiency and achieving a better understanding of deep reinforcement learning from a fundamental level. Recently, I have been especially interested in studying bias reduction and representation learning techniques for deep reinforcement learning. 
 
 I have been working as a teaching assistant for machine learning and reinforcement learning class. I often lead workshops to help students set up environments and work with hpc clusters. I also design research projects that help students learn about the entire research workflow, from coding to research paper writing.
 
@@ -30,6 +30,7 @@ Before becoming a PhD student, I was an undergraduate student at New York Univer
 * AARL: Automated Auxiliary Loss for Reinforcement Learning. Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. **Che Wang**, Keith Ross. 
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). **Che Wang**, Keith Ross. 
+* [Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance](https://arxiv.org/abs/2111.09159). Yanqiu Wu, Xinyue Chen, **Che Wang**, Yiming Zhang, Zijian Zhou, Keith Ross
 
 ## Teaching
 * In 2019 I have taken a collegiate teaching course led by Professor Jace Hargis at NYU Shanghai.
