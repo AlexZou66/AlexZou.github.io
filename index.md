@@ -21,15 +21,16 @@ I have been working as a teaching assistant for machine learning and reinforceme
 Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. In addition to deep learning, I have also been interested in other topics such as game design, robotics and data visualization and have created a number of related projects during my undergraduate study. 
 
 ## Publications
+* [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://openreview.net/forum?id=JzNB0eA2-M4). **Che Wang**, Shuhan Yuan, Kai Shao, Keith Ross. ICLR 2022.
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang**\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). Xinyue Chen, Zijian Zhou, Zheng Wang, **Che Wang**, Yanqiu Wu, Keith Ross. NeurIPS 2020.
 * [Striving for Simplicity and Performance in Off-Policy DRL: Output Normalization and Non-Uniform Sampling](https://arxiv.org/abs/1910.02208). **Che Wang**\*, Yanqiu Wu\*, Quan Vuong, Keith Ross. ICML 2020.
 * [Portfolio Online Evolution in StarCraft](https://ojs.aaai.org/index.php/AIIDE/article/view/12862/12709). **Che Wang**, Pan Chen, Yuanda Li, Christoffer Holmgard, Julian Togelius. Oral presentation at AIIDE 2016. 
 
 ## Work in progress
-* AARL: Automated Auxiliary Loss for Reinforcement Learning. Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang
+* [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://drive.google.com/file/d/1SIRdikTE7S-9lZ4rYaz9WICpBZ4Ao63-/view?usp=sharing). **Che Wang**, Xufang Luo, Keith Ross, Dongsheng Li. 
+* AARL: Automated Auxiliary Loss for Reinforcement Learning. Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang. 
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. **Che Wang**, Keith Ross. 
-* [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://arxiv.org/abs/2002.03585). **Che Wang**, Keith Ross. 
 * [Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance](https://arxiv.org/abs/2111.09159). Yanqiu Wu, Xinyue Chen, **Che Wang**, Yiming Zhang, Zijian Zhou, Keith Ross
 
 ## Teaching
