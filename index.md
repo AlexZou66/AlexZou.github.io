@@ -28,7 +28,7 @@ Before becoming a PhD student, I was an undergraduate student at New York Univer
 * [Portfolio Online Evolution in StarCraft](https://ojs.aaai.org/index.php/AIIDE/article/view/12862/12709). **Che Wang**, Pan Chen, Yuanda Li, Christoffer Holmgard, Julian Togelius. Oral presentation at AIIDE 2016. 
 
 ## Work in progress
-* [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://drive.google.com/file/d/1SIRdikTE7S-9lZ4rYaz9WICpBZ4Ao63-/view?usp=sharing). **Che Wang**, Xufang Luo, Keith Ross, Dongsheng Li. 
+* [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://arxiv.org/abs/2202.10324). **Che Wang**, Xufang Luo, Keith Ross, Dongsheng Li. 
 * AARL: Automated Auxiliary Loss for Reinforcement Learning. Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang. 
 * Uncertainty Dampening: Correcting the Q-Landscape in Offline Reinforcement Learning. **Che Wang**, Keith Ross. 
 * [Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance](https://arxiv.org/abs/2111.09159). Yanqiu Wu, Xinyue Chen, **Che Wang**, Yiming Zhang, Zijian Zhou, Keith Ross
