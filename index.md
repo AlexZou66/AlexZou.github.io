@@ -20,6 +20,8 @@ I have been working as a teaching assistant for machine learning and reinforceme
 
 Before becoming a PhD student, I was an undergraduate student at New York University Shanghai, as a member of the inaugural class of 2017. In addition to deep learning, I have also been interested in other topics such as game design, robotics and data visualization and have created a number of related projects during my undergraduate study. 
 
+In 2022, I very recently received the [Pearl Brownstein Doctoral Research Award](https://engineering.nyu.edu/academics/departments/computer-science-and-engineering/awards-and-publications/student-awards#:~:text=Bae%2C%20Maria%20Christoforaki-,The%20Pearl%20Brownstein%20Doctoral%20Research%20Award,research%20shows%20the%20greatest%20promise.).
+
 ## Publications
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://openreview.net/forum?id=JzNB0eA2-M4). **Che Wang**, Shuhan Yuan, Kai Shao, Keith Ross. ICLR 2022.
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang**\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
