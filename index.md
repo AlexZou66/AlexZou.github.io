@@ -24,7 +24,7 @@ In 2022, I very recently received the [Pearl Brownstein Doctoral Research Award]
 
 ## Publications
 * [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://sites.google.com/nyu.edu/vrl3). **Che Wang**, Xufang Luo, Keith Ross, Dongsheng Li. NeurIPS 2022.
-* [AARL: Automated Auxiliary Loss for Reinforcement Learning](https://openreview.net/forum?id=v-27phh2c8O). Tairan He, Yuge Zhang, Kan Ren, **Che Wang**, Weinan Zhang, Dongsheng Li, Yuqing Yang. NeurIPS 2022.
+* [Reinforcement Learning with Automated Auxiliary Loss Search](https://openreview.net/forum?id=v-27phh2c8O).  Tairan He, Yuge Zhang, Kan Ren, Minghuan Liu, **Che Wang**, Weinan Zhang, Yuqing Yang, Dongsheng Li. NeurIPS 2022.
 * [On the Convergence of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning](https://openreview.net/forum?id=JzNB0eA2-M4). **Che Wang**, Shuhan Yuan, Kai Shao, Keith Ross. ICLR 2022.
 * [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). Xinyue Chen*, **Che Wang**\*, Zijian Zhou\*, Keith Ross. ICLR 2021. 
 * [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). Xinyue Chen, Zijian Zhou, Zheng Wang, **Che Wang**, Yanqiu Wu, Keith Ross. NeurIPS 2020.
