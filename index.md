@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![CheWang](/other-figures/chewang-small.png)
+![AlexZou](/papers-figures/微信图片_20231008154043.jpg)
 
 Data Science AI concentration student
 
