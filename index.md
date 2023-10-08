@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![AlexZou](/papers-figures/微信图片_20231008154043.jpg)
+![AlexZou](/papers-figures/profile.png)
 
 Data Science AI concentration student
 
